@@ -1,0 +1,12 @@
+node_modules/
+dist/
+build/
+.DS_Store
+*.log
+.env
+.env.*
+web/dist/
+server/dist/
+sample.db
+out-sample.md
+out-sample.xlsx
